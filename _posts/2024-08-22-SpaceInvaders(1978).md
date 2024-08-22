@@ -1,5 +1,5 @@
 ---
-title: "Space Invaders(1978)"
+title: "Space Invaders (1978)"
 date: 2024-08-22
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Grand Theft Auto(1997)"
+title: "Grand Theft Auto (1997)"
 date: 2024-08-22
 ---
 
