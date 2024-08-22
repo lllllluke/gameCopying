@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: A web about game copying
 ---
 
+# GameCopying
