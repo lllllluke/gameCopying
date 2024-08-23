@@ -1,4 +1,12 @@
+---
+title: "Prisoners of Bubbleville: Design Brief"
+date: 2024-08-23
+---
+
+
+
 # Prisoners of Bubbleville: Design Brief
+
 - make a videogame all about parachuting into a city
 ## Story
 - You are “Smiley,” a parachuting cat. The good people of Bubbleville are trapped in their houses by an evil wizard. You must find a way to defeat the wizard, by repeatedly parachuting into the city and sliding down chimneys to visit the citizens and get clues about how to stop the wizard.
